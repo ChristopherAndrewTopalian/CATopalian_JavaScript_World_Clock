@@ -16,7 +16,7 @@ function makeInterface()
     mainDiv.style.position = 'absolute';
     mainDiv.style.left = 0 + 'px';
     mainDiv.style.top = 0 + 'px';
-    mainDiv.style.height = 500 + "px";
+    mainDiv.style.height = 400 + "px";
     mainDiv.style.borderRadius = 8 + "px";
     mainDiv.style.padding = 10 + "px";
     mainDiv.style.overflowY = "scroll";
