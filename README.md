@@ -1,6 +1,10 @@
 # CATopalian JavaScript World Clock
 A JavaScript World Clock that shows the time from across the world.
 
+![screenshot_001](src/media/textures/screenshots/001.PNG)
+
+VIDEO: https://youtu.be/NGan3hT_0-g
+
 ---
 
 ### How to Download this App
