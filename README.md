@@ -16,4 +16,4 @@ VIDEO: https://youtu.be/NGan3hT_0-g
 
 ---
 
-Hapy Scripting :-)
+Happy Scripting :-)
