@@ -3,7 +3,7 @@
 function makeTitleOfApp()
 {
     let theLink = ce('a');
-    theLink.textContent = 'CATopalian World Clock';
+    theLink.textContent = 'CATopalian JavaScript World Clock';
     theLink.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_World_Clock';
     theLink.target = '_blank';
     theLink.style.position = 'absolute';

@@ -1,5 +1,5 @@
 # CATopalian JavaScript World Clock
-A JavaScript Clock that shows many time zones across the world.
+A JavaScript World Clock that shows the time from across the world.
 
 ---
 
