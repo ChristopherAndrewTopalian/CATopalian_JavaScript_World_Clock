@@ -3,6 +3,8 @@ A JavaScript World Clock that shows the time from across the world.
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)
 
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html
+
 VIDEO: https://youtu.be/NGan3hT_0-g
 
 ---
