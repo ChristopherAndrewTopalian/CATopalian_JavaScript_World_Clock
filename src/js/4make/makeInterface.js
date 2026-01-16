@@ -2,6 +2,10 @@
 
 function makeInterface()
 {
+    ba(makeTitleOfApp());
+
+    //-//
+
     if (ge("main"))
     {
         ge("main").remove();
@@ -13,10 +17,8 @@ function makeInterface()
     mainDiv.id = "main";
     mainDiv.style.display = "flex";
     mainDiv.style.flexDirection =  "column";
-    mainDiv.style.position = 'absolute';
-    mainDiv.style.left = 0 + 'px';
-    mainDiv.style.top = 0 + 'px';
-    mainDiv.style.height = 400 + "px";
+    mainDiv.style.width = '300px';
+    mainDiv.style.height = '250px';
     mainDiv.style.borderRadius = 8 + "px";
     mainDiv.style.padding = 10 + "px";
     mainDiv.style.overflowY = "scroll";
@@ -238,7 +240,7 @@ function makeInterface()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
